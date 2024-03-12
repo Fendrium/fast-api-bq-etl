@@ -1,0 +1,4 @@
+Faker==24.1.0
+fastapi==0.110.0
+uvicorn>=0.15.0
+
